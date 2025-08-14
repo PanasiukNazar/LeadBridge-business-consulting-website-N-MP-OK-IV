@@ -1,0 +1,28 @@
+/******* Customized Bootstrap ********/
+
+$primary: #3ab7b7;
+$secondary: #1E2A38;
+$light: #ecf4ff;
+$dark: #1E2A38;
+
+$font-family-base: "Open Sans", sans-serif;
+
+$headings-font-family: "Jost", sans-serif;
+
+$body-bg: #ffffff;
+
+$body-color: #6b6a75;
+
+$headings-color: $dark;
+
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 2px;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+@import "bootstrap/scss/bootstrap";
